@@ -1,0 +1,7 @@
+{
+  "name": "go-bus",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
